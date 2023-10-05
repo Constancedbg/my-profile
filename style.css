@@ -1,0 +1,146 @@
+body {
+    background-color: #C8B6A6;
+    color: black;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+    
+.container {
+    width: 1000px;
+    margin: 30px auto;
+    margin-left: 142px;
+
+ 
+}
+
+.intro p {
+    text-align: center;
+    font-size: 18px;
+}
+h1 {
+    color: black;
+    font-size: 35px; 
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+}
+img {
+    border-radius: 50%; 
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 25px; 
+    text-align:center;
+    padding: 0,5px;
+    background-color: #C8B6A6;
+}
+
+h3 {
+    text-align: left;
+    font-size: 21px;
+}
+
+.card-white {
+        background-color:#D8D1CA;
+        padding: 40px;
+        margin: 30px; 
+        box-shadow: 10px 20px 20px rgb(124, 74, 74); 
+        width: 1000px;
+        border-radius: 40px;
+    }
+
+
+.img-circle {
+    border-radius: 50%;
+    
+}
+
+ul li {
+    list-style: none; 
+    margin-right: 13px;
+}
+
+.button {
+display: inline;
+font-size: 50px;
+color:#E5B299;
+}
+
+
+
+.btn-black {
+    background-color: #C8B6A6;
+    color: black;
+    border-radius: 7px;
+    margin: 30px;
+    width: 300px;
+    padding: 19px;
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+}
+
+.btn-black:hover {
+    background-color: #A9907E;
+
+}
+
+.btn-blue:hover {
+    background-color: #A9907E;
+        
+}
+#Contact {
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+
+p {
+text-align: left;
+font-size:18px
+}
+
+.colonne {
+    vertical-align: top;
+    display: inline-block;
+    margin-right:40px
+    
+  }
+
+.btn-blue {
+    background-color: #C8B6A6;
+        color: black;
+        border-radius: 7px;
+        margin: 30px;
+        width: 300px;
+        padding: 19px;
+        font-size: 15px;
+        text-decoration: none;
+        font-family: 'Lato', sans-serif;
+}
+
+.title {
+    margin-bottom: 40px;
+    margin-top: 50px
+}
+
+.savoir p {
+    text-align: center;
+    margin-top: 0,5px
+}
+
+
+
+.competences {
+    text-align:left;
+    margin-left: 20px
+}
+
+
+.interests li {
+    margin-left: 40px
+}
+
+.qualities li {
+    margin-right: 200px
+}
